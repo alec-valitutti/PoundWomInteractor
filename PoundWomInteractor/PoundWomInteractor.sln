@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoundWomInteractor", "PoundWomInteractor\PoundWomInteractor.csproj", "{BA97CFE4-2709-4F49-B425-701620326C45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoundWomInteractor.App", "PoundWomInteractor\PoundWomInteractor.App.csproj", "{BA97CFE4-2709-4F49-B425-701620326C45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoundWomInteractor.Services", "PoundWomInteractor.Services\PoundWomInteractor.Services.csproj", "{B9B3FD68-922C-41A9-B554-D7530A8E3F41}"
 EndProject
