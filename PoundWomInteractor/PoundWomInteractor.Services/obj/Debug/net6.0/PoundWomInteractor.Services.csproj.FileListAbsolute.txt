@@ -1,0 +1,15 @@
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.csproj.AssemblyReference.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.AssemblyInfoInputs.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.AssemblyInfo.cs
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.csproj.CoreCompileInputs.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\bin\Debug\net6.0\PoundWomInteractor.Services.deps.json
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\bin\Debug\net6.0\PoundWomInteractor.Services.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\bin\Debug\net6.0\PoundWomInteractor.Services.pdb
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\bin\Debug\net6.0\PoundWomInteractor.Domain.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\bin\Debug\net6.0\PoundWomInteractor.Domain.pdb
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.csproj.CopyComplete
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\refint\PoundWomInteractor.Services.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\PoundWomInteractor.Services.pdb
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Services\obj\Debug\net6.0\ref\PoundWomInteractor.Services.dll

@@ -1,0 +1,12 @@
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\bin\Debug\net6.0\PoundWomInteractor.Domain.deps.json
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\bin\Debug\net6.0\PoundWomInteractor.Domain.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\bin\Debug\net6.0\PoundWomInteractor.Domain.pdb
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.csproj.AssemblyReference.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.AssemblyInfoInputs.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.AssemblyInfo.cs
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.csproj.CoreCompileInputs.cache
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\refint\PoundWomInteractor.Domain.dll
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\PoundWomInteractor.Domain.pdb
+C:\Code\C#\PoundWomInteractor\PoundWomInteractor\PoundWomInteractor.Domain\obj\Debug\net6.0\ref\PoundWomInteractor.Domain.dll
