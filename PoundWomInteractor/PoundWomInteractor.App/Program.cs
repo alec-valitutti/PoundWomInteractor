@@ -8,8 +8,8 @@ internal class Program
         Application application = new Application();
 
         await application.Test();
-        var clanMembers = await application.GetPoundPlayersByEHP(2000);
-
+        var clanMembers = await application.GetPoundPlayersByEhb(500);
+        Console.WriteLine(clanMembers.Count());
         foreach (var member in clanMembers)
         {
             Console.WriteLine(member.player.displayName);

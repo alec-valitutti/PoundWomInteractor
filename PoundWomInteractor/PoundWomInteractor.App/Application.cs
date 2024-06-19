@@ -37,6 +37,16 @@ namespace PoundWomInteractor
             return members;
 
         }
+        public async Task<IEnumerable<Membership>> GetPoundPlayersByEhb(double ehbValue = 150)
+        {
+            if (Clan is null)
+            {
+                Clan = await GetClan();
+            }
+            var members = Clan.memberships.Where(p => p.player.ehb > ehbValue).ToList();
+            return members;
+
+        }
         private async Task<Clan> GetClan()
         {
             return await WiseOldManService.GetPoundRoster();
